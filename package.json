@@ -1,14 +1,14 @@
 {
-   "name": "Sparks-WhatsappMd-V1",
+   "name": "Sparks-WhatsAppMd-V1",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by Sparks.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Sparks-WhatsappMd-V1 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Sparks-WhatsappMd-V1 || node .",
-      "start": "pm2 start . --attach --name Queen_Anita-V2",
-      "stop": "pm2 stop Sparks-WhatsappMd-V1",
+      "run": "pm2 start . --deep-monitoring --attach --name Sparks-WhatsAppMd-V1 || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name Sparks-WhatsAppMd-V1 || node .",
+      "start": "pm2 start . --attach --name Sparks-WhatsAppMd-V1",
+      "stop": "pm2 stop Sparks-WhatsAppMd-V1",
       "heroku-postbuild": "git clone https://github.com/themzysparks/Sparks-WhatsAppMd-V1 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/themzysparks/Sparks-WhatsAppMd-V1.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
