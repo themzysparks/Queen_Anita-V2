@@ -1,15 +1,15 @@
 {
-    "name": "Queen_Anita-V2",
-    "description": "Simple WhatsApp Bot",
-    "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "name": "Sparks-WhatsappMd-V1",
+    "description": "Simple WhatsApp Bot By Sparks",
+    "logo": "https://i.imgur.com/fuBX5UQ.jpeg",
+    "keywords": ["Sparks", "Sparks-WhatsappMd", "Sparksbot", "WhatsAppMd" ],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "Sparks-WhatsappMd-V1",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg",
+        "value": "https://i.imgur.com/fuBX5UQ.jpeg",
         "required": false
       },
   
@@ -35,12 +35,12 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://i.imgur.com/fuBX5UQ.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "Sparks-WhatsappMd-V1"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "2349130815781"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_Anita-V2",
+        "value": "Sparks-WhatsappMd-V1",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A N I T A",
+        "value": "S P A R K S",
         "required": false
       }
     },
