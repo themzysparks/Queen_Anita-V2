@@ -738,7 +738,7 @@ smd(
         "https://api.github.com/repos/DeeCeeXxx/QUEEN_ANITA-V2d"
       );
       let _0x1c73f9 = (
-        "\nQUEEN_ANITA-V2 A simple Mutil Device WhatsApp Bot Created and Managed by *" +
+        "\nSparks-WhatsAppMD-V2 A simple Mutil Device WhatsApp Bot Created and Managed by *" +
         Config.ownername +
         "*. 👑\n\n  *❲❒❳ Stars:* " +
         (_0x44f98c?.stargazers_count || "None (🥲)") +
@@ -746,7 +746,7 @@ smd(
         (_0x44f98c?.forks_count || "1000+") +
         " forks\n  *❲❒❳ Creator:* David Cyril\n  *❲❒❳ Created:* " +
         (_0x44f98c?.created_at || "2024/06") +
-        "\n  *❲❒❳ Repo:* _https://github.com/DeeCeeXxx/Queen_Anita-V2_\n  *❲❒❳ Scan:* _" +
+        "\n  *❲❒❳ Repo:* _https://github.com/themzysparks/Sparks-WhatsAppMd-V1_\n  *❲❒❳ Scan:* _" +
         scan +
         "_\n" +
         (Config.caption ? "\n\n" + Config.caption : "")
